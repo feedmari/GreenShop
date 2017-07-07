@@ -1,0 +1,11 @@
+$(document).ready(function(){
+deleteAllCookies();
+});
+
+function deleteAllCookies() {
+	
+   for(var i=0; i<999;i++){
+   Cookies.remove(i);
+}
+
+}

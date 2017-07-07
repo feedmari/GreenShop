@@ -1,0 +1,7 @@
+Modifiche effettuate 5-12-2015
+
+- Il carrello non veniva visualizzato nelle pagine contattaci e login in quanto il jquery faceva listening su degli elementi che in quelle pagine non c'erano (elementi della pagina home).
+ Per risolvere ho diviso il jquery in due file: uno in cui ci sono le query della home e uno dove ci sono le query del carrello implementate nelle singole pagine.
+
+Modifiche effettuate 6-12-2015- Scrivo sta merda solo per provare se funziona l'ssh con Tortoisehg
+altra prova di ssh che sembra finalmente funzionare
