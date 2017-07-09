@@ -9,3 +9,5 @@ Project for the Web Technologies course of the Bachelor Degree in Computer Scien
 ## Authors
 
 * **Marco Mancini** - https://www.linkedin.com/in/marco-mancini-6b2969108/
+* **Federico Marinelli** - https://www.linkedin.com/in/feedmari/
+* **Ivan Gorbenko** 
